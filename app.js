@@ -12,6 +12,7 @@ function adicionarAmigo(){
     escreveNomesAmigos();
 }
 
+//escreve na tela a lista de amigos adicionados
 function escreveNomesAmigos(){
     let lista = document.getElementById('listaAmigos');
     let contador = 0;
@@ -22,6 +23,7 @@ function escreveNomesAmigos(){
     }
 }
 
+//sorteia um amigo da lista e escreve seu nome na tela
 function sortearAmigo(){
     let amigoSorteado;
     let sorteadoResultadoNaTela = document.getElementById('resultado');
