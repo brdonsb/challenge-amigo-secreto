@@ -10,6 +10,8 @@
 
 * CSS
 
+* JavaScript
+
 ## Feito por:
 
 ### Brandon Marques dos Santos
